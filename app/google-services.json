@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469535340785",
+    "project_id": "tugaspemin",
+    "storage_bucket": "tugaspemin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469535340785:android:cc75448ba253838c0c1150",
+        "android_client_info": {
+          "package_name": "com.example.tugaspemin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469535340785-m1b5n4et24fhhtt2b78rt19nj9h4n39o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtGJ8cX2QWtXza7wsr6rta7ePlodRcjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469535340785-m1b5n4et24fhhtt2b78rt19nj9h4n39o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
